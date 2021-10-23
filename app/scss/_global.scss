@@ -22,6 +22,11 @@ body {
   // min-width: 1920px;
   overflow-x: hidden;
   min-height: 100vh;
+  @extend %fw400;
+  color: #353535;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.16px
 }
 
 .wrapper {
